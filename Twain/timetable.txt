@@ -1,0 +1,40 @@
+Name: Night Express
+Departure: 23:55
+Arrival: 08:15
+Travel time: 08:20
+Name: Red Arrow
+Departure: 22:10
+Arrival: 07:45
+Travel time: 09:35
+Name: Star
+Departure: 10:30
+Arrival: 19:25
+Travel time: 08:55
+Name: Comfort
+Departure: 11:45
+Arrival: 20:40
+Travel time: 08:55
+Name: Budget
+Departure: 05:50
+Arrival: 18:55
+Travel time: 13:05
+Name: Day Rocket
+Departure: 11:55
+Arrival: 16:00
+Travel time: 04:05
+Name: Super Star
+Departure: 12:20
+Arrival: 16:48
+Travel time: 04:28
+Name: Good Morning
+Departure: 21:20
+Arrival: 08:45
+Travel time: 11:25
+Name: Best Choice
+Departure: 20:00
+Arrival: 07:25
+Travel time: 11:25
+Name: Sunrise
+Departure: 21:30
+Arrival: 05:40
+Travel time: 08:10

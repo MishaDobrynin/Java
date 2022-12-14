@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=City
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ City\ here.\r\n\r\n\ @author\ Misha\ Dobrynin\r\n\ @version\ Nov\ 21,\ 2022\r\n
+comment1.params=name\ population\ country
+comment1.target=City(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=other
+comment4.target=int\ compareTo(City)
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MoveLeft
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MoveLeft\ here.\r\n\r\n\ @author\ Misha\ Dobrynin\r\n\ @version\ 5/10\ 2022\r\n
+comment1.params=arr
+comment1.target=int[]\ moveLeft(int[])
+comment2.params=arr
+comment2.target=char[]\ moveLeft(char[])
+comment3.params=arr
+comment3.target=java.lang.String[]\ moveLeft(java.lang.String[])
+comment4.params=arr
+comment4.target=double[]\ moveLeft(double[])
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FlipNumber
+comment1.params=toFlip
+comment1.target=FlipNumber(int)
+comment2.params=
+comment2.target=int\ doFlip()
+comment3.params=
+comment3.target=int\ getDigit()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Flip
+comment0.text=\r\n\ Flips\ an\ array\ of\ things\r\n\r\n\ @author\ Misha\ Dobrynin\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=arr
+comment1.target=java.lang.String[]\ flip(java.lang.String[])
+comment2.params=arr
+comment2.target=int[]\ flip(int[])
+comment3.params=arr
+comment3.target=double[]\ flip(double[])
+comment4.params=arr
+comment4.target=char[]\ flip(char[])
+numComments=5

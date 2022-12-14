@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Client
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=input\ len
+comment2.target=int[]\ integerArr(java.util.Scanner,\ int)
+comment3.params=input\ len
+comment3.target=double[]\ doubleArr(java.util.Scanner,\ int)
+comment4.params=input\ len
+comment4.target=java.lang.String[]\ stringArr(java.util.Scanner,\ int)
+comment5.params=
+comment5.target=void\ menu()
+numComments=6

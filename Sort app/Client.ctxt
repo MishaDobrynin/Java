@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Client
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=void\ menu()
+comment2.params=
+comment2.target=void\ sorted()
+comment3.params=
+comment3.target=void\ fliper()
+comment4.params=
+comment4.target=void\ distance()
+comment5.params=
+comment5.target=void\ palind()
+comment6.params=
+comment6.target=void\ inside()
+comment7.params=
+comment7.target=void\ pairs()
+comment8.params=
+comment8.target=void\ mvLt()
+comment9.params=
+comment9.target=void\ mvRt()
+numComments=11

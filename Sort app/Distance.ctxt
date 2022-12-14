@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Distance
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Distance\ here.\r\n\r\n\ @author\ Misha\ Dobrynin\r\n\ @version\ 5/10\ 2022\r\n
+comment1.params=arr
+comment1.target=double\ distance(double[])
+comment2.params=arr
+comment2.target=int\ distance(int[])
+numComments=3
